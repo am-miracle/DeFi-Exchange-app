@@ -507,7 +507,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./cryptodev.svg" />
+          <img className={styles.image} src="https://raw.githubusercontent.com/LearnWeb3DAO/Defi-Exchange/36934eb63933032a3e7a7f839918c7bf237e9881/my-app/public/cryptodev.svg" />
         </div>
       </div>
 
